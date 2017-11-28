@@ -2,6 +2,7 @@ package classandobjects;
 class ShirtClass{
 	//below are properties to identify the class/class level variables
 	String color;
+	String Brand;
 	int size;
 	int price;
 	String companyName;
